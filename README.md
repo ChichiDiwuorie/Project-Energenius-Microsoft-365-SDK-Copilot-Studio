@@ -137,9 +137,12 @@ By leveraging **Copilot Studio and Microsoft 365 technologies**, Energenius enha
  
 ---
 
-## Pitch Deck  
+## Pitch Deck  & Demo
 
 [Energenius Pitch Deck.pptx](https://github.com/user-attachments/files/19997058/Energenius.Pitch.Deck.pptx)
+
+### Demo 
+(https://youtu.be/IReOtMRpJrQ?si=HrzX7yc92Wte60Br)
 
 ---
 
